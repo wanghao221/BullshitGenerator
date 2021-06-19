@@ -5,11 +5,10 @@
 Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 
 ## 再次声明一下, 本项目生成的文章真的狗屁不通, 只能拿来搞笑, 请不要用于正规用途!
-## 再次声明一下, 本项目生成的文章真的狗屁不通, 只能拿来搞笑, 请不要用于正规用途!
-## 再次声明一下, 本项目生成的文章真的狗屁不通, 只能拿来搞笑, 请不要用于正规用途!
+
 
 本项目为python3版本, 还有由suulnnka修改在线版, 使用更加方便:
-https://suulnnka.github.io/BullshitGenerator/index.html
+https://wanghao221.github.io/BullshitGenerator/index.html
 
 下一步计划:
 1. 防止文章过于内容重复
